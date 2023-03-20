@@ -1,0 +1,15 @@
+{
+  "name": "wedco/next-social-chat",
+  "autoload": {
+    "psr-4": {
+      "NextSocialChat\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sazzad Hussain",
+      "email": "sazzadh@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}

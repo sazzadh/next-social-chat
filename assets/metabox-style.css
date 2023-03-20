@@ -1,0 +1,24 @@
+.nsc_metaboxbuilder_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.nsc_metaboxbuilder_col {
+  width: 50%;
+}
+.form-table table th {
+  width: auto;
+  padding-right: 0;
+  /* padding: 0; */
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.form-table table td {
+  padding-right: 30px;
+  min-width: 110px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.form-table table td p {
+  margin: 0;
+}
